@@ -1,0 +1,9 @@
+c:\users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\bin\Debug\El_juego_de_la_vida.exe.config
+C:\Users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\bin\Debug\El_juego_de_la_vida.exe
+C:\Users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\bin\Debug\El_juego_de_la_vida.pdb
+C:\Users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\obj\Debug\El_juego_de_la_vida.Form1.resources
+C:\Users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\obj\Debug\El_juego_de_la_vida.Properties.Resources.resources
+C:\Users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\obj\Debug\El_juego_de_la_vida.csproj.GenerateResource.Cache
+C:\Users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\obj\Debug\El_juego_de_la_vida.exe
+C:\Users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\obj\Debug\El_juego_de_la_vida.pdb
+C:\Users\hpl\documents\visual studio 2015\Projects\El_juego_de_la_vida\El_juego_de_la_vida\obj\Debug\El_juego_de_la_vida.csprojResolveAssemblyReference.cache
